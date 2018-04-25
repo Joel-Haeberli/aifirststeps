@@ -2,7 +2,7 @@
 
 I want to do my first steps with AI...
 
-    ... it's the well known Iris flower data set. The Hello World of AI - they say ;)
+... it's the well known Iris flower data set. The Hello World of AI - they say ;)
 
 Following this tutorial: https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
 I decided to document a bit the topics handled. It should at first be a help for me. But if it helps someone else I'm happy too.
